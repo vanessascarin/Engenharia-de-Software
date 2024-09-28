@@ -1,0 +1,9 @@
+1.	Usuários para administrador e caixa:
+1.1.	Criar usuários;
+1.1.1.	 Se nome de usuário já existente no arquivo, cancelar criação.
+1.1.2.	 Se nome novo, salvar em arquivo.
+1.2.	Autenticar usuários;
+1.2.1.	Se usuário não existente no arquivo, não autenticar;
+1.2.2.	 Se senha incorreta no arquivo, não autenticar;
+1.2.3.	 Se usuário e senha correspondentes no arquivo, autenticar.
+
